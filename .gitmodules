@@ -1,0 +1,3 @@
+[submodule "LaTeX-Box"]
+	path = LaTeX-Box
+	url = https://github.com/lee-hyunkyu/LaTeX-Box.git
